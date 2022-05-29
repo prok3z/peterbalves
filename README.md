@@ -1,4 +1,4 @@
-## Olá! Eu sou o Peter, sou programador javascript e intusiasta da área de TI
+## hello, my name is prok3z, I'm a programmer and security analyst, I report hackerone and bugcrowd flaws
  <div>
   <a href="https://github.com/peterbalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterbalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img align="center" alt="Inosuke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Inosuke-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Inosuke-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Inosuke-Gif" src="https://cdn.discordapp.com/attachments/890311537988866060/900573638925901834/Screenshot_1.png">
+  <img align="right" alt="Inosuke-Gif" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/UC7EWFXnpsSXT4ESoT4jsrdw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
